@@ -8,7 +8,7 @@ self-taught
 
 
 ---
-### :wrench: Abilities :
+### :rocket: Abilities :
 - i learned **HTML**, **CSS**, **JavaScript**, **Git**, **SASS**, **Bootstrap**, 
 - 🌱 I’m currently learning **react.js** 
 ---
