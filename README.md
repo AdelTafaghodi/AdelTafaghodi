@@ -2,12 +2,15 @@
 ##  👨‍💻 frontEnd developer
 
 ### :blush: About Me :
+![](https://visitor-badge.laobi.icu/badge?page_id=adeltafaghodi.adeltafaghodi)
 
 self-taught
+
 ![](./images/2.gif)
 
 ---
 ### 🕶 Abilities :
+
 - :rocket: i learned **HTML**, **CSS**, **JavaScript**, **jQuery**, **Git**, **SASS**, **Bootstrap**, 
 - :seedling: I’m currently learning **react.js** 
 ---
@@ -23,3 +26,7 @@ self-taught
 ### :telephone: Contact Me:
 - :e-mail: my Email : <tafaghodi.adel@gmail.com>
 - :envelope: telegram : <https://t.me/adel_tafaghodi>
+---
+### My Github Status :
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=adeltafaghodi&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adeltafaghodi&theme=tokyonight)
