@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi 👋 , I'm Adel Tafaghodi
+## :computer: frontEnd developer
 
-<!--
-**AdelTafaghodi/AdelTafaghodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me :
 
-Here are some ideas to get you started:
+self-taught
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **react.js** 
+
+---
+### Abilities :
+---
+### Education :
+- :school: Diploma at mathematics and physics - Mashhad,Iran (Amir Kabir) : Oct,2015-June,2017
+- :mortar_board: I’m studying for a B.S in computer engineering (C.E) from the University of Torbat Heydarieh,Iran : Oct,2018-now
+---
+### Personality
+- i :heart: linux
+---
+### Contact Me:
+- :e-mail: my Email : <tafaghodi.adel@gmail.com>
+- :envelope: telegram : <https://t.me/adel_tafaghodi>
