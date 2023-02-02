@@ -19,7 +19,6 @@ self-taught
 - :mortar_board: I’m studying for a B.S in computer engineering (C.E) from the University of Torbat Heydarieh,Iran : Oct,2018 - now
 ---
 ### :hearts: Personality :
-- i :heart: Maryam 👩‍❤️‍👨
 - i :yellow_heart: linux :computer:
 - i :purple_heart: sport 🥇
 - i :blue_heart: motorcycle 🏍
